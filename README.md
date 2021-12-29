@@ -12,11 +12,14 @@ Chatbot_model.h5: Đây là mô hình được đào tạo có chứa thông tin
 
 Chatgui.py: Tệp python để triển khai GUI cho chatbot. Người dùng có thể dễ dàng tương tác với bot.
 
+
 Đảm bảo đã cài đặt các thư viện:
     pip install tensorflow, keras, pickle, nltk
 
+
 Tạo model bằng lệnh:
     python train_chatbot.py
+
 
 Để chạy ứng dụng:
     python chatgui.py
